@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+#header {
+    text-align: center;
+    color: darkorchid;
+    font-size: 30px;
+
+}
+
+#numbers {
+    display: flex;
+    justify-content: space-evenly;
+    color: darkorchid;
+    font-size: 30px;
+}
