@@ -22,13 +22,13 @@ body {
     #header {
         text-align: center;
         color: darkorchid;
-        font-size: 10px;
+        font-size: 5px;
 
     }
     #numbers {
         display: flex;
         justify-content: space-evenly;
         color: darkorchid;
-        font-size: 10px;
+        font-size: 5px;
     }
 }
